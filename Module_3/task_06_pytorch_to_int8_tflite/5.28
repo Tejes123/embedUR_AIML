@@ -1,0 +1,4 @@
+Collecting protobuf
+  Using cached protobuf-7.35.1-cp310-abi3-win_amd64.whl (439 kB)
+Installing collected packages: protobuf
+Successfully installed protobuf-7.35.1
