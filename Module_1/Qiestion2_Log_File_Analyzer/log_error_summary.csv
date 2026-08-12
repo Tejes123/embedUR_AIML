@@ -1,0 +1,9 @@
+module,ERROR,FATAL,WARN,TOTAL_ISSUES
+org.apache.hadoop.ipc.Client,0,0,476,476
+org.apache.hadoop.hdfs.LeaseRenewer,0,0,326,326
+org.apache.hadoop.mapreduce.v2.app.rm.RMContainerAllocator,148,0,0,148
+org.apache.hadoop.hdfs.DFSClient,0,0,4,4
+org.apache.hadoop.mapred.TaskAttemptListenerImpl,0,2,0,2
+org.apache.hadoop.mapreduce.v2.app.commit.CommitterEventHandler,0,0,2,2
+org.apache.hadoop.mapreduce.jobhistory.JobHistoryEventHandler,1,0,0,1
+org.apache.hadoop.yarn.YarnUncaughtExceptionHandler,1,0,0,1
